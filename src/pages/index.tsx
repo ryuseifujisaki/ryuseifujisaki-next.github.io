@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <>
       <h1>技大祭</h1>
-      <Card><h1>でけた</h1></Card>
+      <Card><h1>でけた </h1></Card>
     </>
   )
 }
