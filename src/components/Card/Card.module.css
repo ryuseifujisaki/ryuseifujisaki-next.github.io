@@ -1,0 +1,10 @@
+.CardContainer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  background-color: var(--violet-dark);
+  padding: 50px;
+  margin: 0px;
+  font-size: 1.6rem;
+}
